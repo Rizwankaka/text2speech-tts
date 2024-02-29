@@ -1,4 +1,2 @@
 streamlit
 openai
-os
-tempfile
