@@ -30,7 +30,7 @@ def convert_audio_format(input_path, output_path, format):
 st.title("🔊 Text to Speech Converter 📝")
 st.image("https://www.piecex.com/product_image/20190625044028-00000544-image2.png")
 st.markdown("""
-This app converts text to speech using OpenAI's tts-1 model.
+This app converts text to speech using OpenAI's tts-1 or tts-1-hd model.
 Please enter your OpenAI API key below. **Do not share your API key with others.**
 """)
 
